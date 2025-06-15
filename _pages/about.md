@@ -44,6 +44,7 @@ As an experienced Data Scientist, I am adept at exploring statistical models, ut
 
 <span class='anchor' id='publication'></span>
 # Publication
+- Chu, P. C., Lee, C. H., Lee, Y. F., **Lin, J.**, Wang, J., & Hwang, J. S. (2025). [Combined exposure to night work and noise in relation to hyperglycemia among long-term night workers: a nationwide population-based prospective cohort study](https://pmc.ncbi.nlm.nih.gov/articles/PMC12072438/). Scandinavian Journal of Work, Environment & Health, 51(3), 237.
 - Wang, H. L., **Lin, J.**, Chen, Y. H., Chen, Y. S., Lai, W. Y., & Hwang, Y. T. (2023). [Estimation of Static Population Parameters Based on Telecommunication Data](https://www.airitilibrary.com/Article/Detail?DocID=05296528-N202306020008-00003). *Journal of the Chinese Statistical Association*, 61(2), 152-177.
 
 <!--# 🎖 Honors and Awards-->
